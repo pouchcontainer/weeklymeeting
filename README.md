@@ -19,10 +19,10 @@ PouchContainer team and any users can will start the colloboration meeting on Th
 
 PouchContainer team will arrange tech sharing on Wednesday of every week at 7PM GMT+8 (Beijing Time):
 
-- meeting address with [zoom](https://zoom.us/): https://zoom.us/j/3106836401 ;
+- meeting address with [zoom](https://zoom.us/): https://zoom.us/j/881504669 ;
 - meeting sharing topic schedule: 
 
 |Topic Name|Sharing Time|Speecher|Video Record Address|Slides|
 |:-:|:-:|:-:|:-:|:-:|
 |Deep Dive into CRI impelmentation in PouchContainer|2018.08.21| [@YaoZengzeng](https://github.com/yaozengzeng)|none|none|
-|Deep Dive into the architecture and workflow of containerd|2018.08.28|[@fuweid](https://github.com/fuweid)|||
+|Deep Dive into the architecture and workflow of containerd|2018.08.29|[@fuweid](https://github.com/fuweid)|||
